@@ -9,6 +9,8 @@
 </head>
 <body>
 <div class="container">
+    <a href="/">Main page</a>
+    <a href="/posts">Posts page</a>
     @yield('content')
 </div>
 </body>
